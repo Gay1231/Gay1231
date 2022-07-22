@@ -5,19 +5,379 @@
 - 📫 How to reach me ...
 
 <!---
-Gay1231/Gay1231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-"dataid","order_number_formatted","order_number","date","status","order_shipping","order_shipping_tax","cart_discount","order_discount","order_total","payment_method","shipping_method","shipping_cost","customer_user","billing_first_name","billing_last_name","billing_email","billing_phone","billing_address_1","billing_address_2","billing_postcode","billing_city","billing_state","billing_country","billing_company","shipping_first_name","shipping_last_name","shipping_address_1","shipping_address_2","shipping_postcode","shipping_city","shipping_state","shipping_country","shipping_company","customer_note","order_item_1","order_item_2","order_item_3","order_item_4","order_item_5","order_item_6","order_item_7","order_item_8","order_item_9","order_item_10","order_item_11","order_item_12","order_item_13","order_item_14","order_notes","meta:_cc_last_4","meta:_tracking_shipment_date","meta:_tracking_shipment_method","meta:_tracking_tracking_number","meta:_tracking_carrier","Download Permissions Granted"
-11001,"XDWEX-201402211010-188245","188245","2014-02-21 00:00:00","completed","","","","","42.74","Credit Card","Ground","5.74","","Kristine","Bertoni","bertoni93@verizon.net"," 8636442980","2507 Highlands Vue Pakway","","33812","Lakeland","FL","United States","","Kristine","Bertoni","2507 Highlands Vue Pakway","","33812","Lakeland","FL","United States","","","MLDKT32Z|1|37.00","MLDKT8Z2BTL|1|19.99","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: MasterCard<br />Card No.:1992<br />Card Expiration: 07/2016|Tracking Numbers:61293150344423911300<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:8636442980<br />Evening Telephone:8636442980|Screen Branding Theme Code:MCP<br />Item IDs:MLDKT32Z,MLDKT8Z2BTL|Merchant Notes:ship thru EFUL.. -janice 02/21|Comments:","1992","2014-02-24","Ground","61293150344423911300","UPS",""
-11002,"XDWEX-201402211024-411080","411080","2014-02-21 00:00:00","completed","","","","","70.29","Credit Card","Priority Mail","9.99","","phyllis","hanna","bhanna1@woh.rr.com"," 9374927619","807 arrowhead dr","apt D","45365","sidney","OH","United States","","phyllis","hanna","807 arrowhead dr","apt D","45365","sidney","OH","United States","","","BBBULLY1GS|1|67.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: Visa<br />Card No.:6530<br />Card Expiration: 10/2014|Tracking Numbers:1Z8951R80399511618<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:<br />Evening Telephone:|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY1GS|Merchant Notes:customer she forgot to put the apartment #, address updated.. -janice 02/21 shipping direct - liza0221|Comments:","6530","2014-02-21","Priority Mail","1Z8951R80399511618","USPS",""
-11003,"XDWEX-201402211041-477050","477050","2014-02-21 00:00:00","completed","","","","","76.99","Credit Card","Priority Mail","9.99","","Nanisha","Anderson","ec_beats283@yahoo.com"," 4405227759","7335 JEAN DR","","44146-5800","OAKWOOD VLG","OH","United States","","Nanisha","Anderson","7335 JEAN DR","","44146-5800","OAKWOOD VLG","OH","United States","","","BBBULLY1G|1|67.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: MasterCard<br />Card No.:3713<br />Card Expiration: 09/2015|Tracking Numbers:041034265924655<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:4405227759<br />Evening Telephone:4405227759|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY1G|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","3713","2014-02-24","Priority Mail","041034265924655","USPS",""
-11004,"XDWEX-201402211119-155023","155023","2014-02-21 00:00:00","completed","","","","","63.65","Credit Card","Priority Mail","0.00","","Cissielyn","Watkins","christiana200988@yahoo.co.uk"," 2546342514","208 W HALLMARK AVE","","76541-7731","KILLEEN","TX","United States","","Monica","Watkins","208 W HALLMARK AVE","","76541-7731","KILLEEN","TX","United States","","","BBBULLY1G|1|67.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: MasterCard<br />Card No.:2057<br />Card Expiration: 12/2016|Tracking Numbers:041034265924617<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:2546342514<br />Evening Telephone:2546342514|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY1G|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","2057","2014-02-24","Priority Mail","041034265924617","USPS",""
-11005,"XDWEX-201402211215-322194","322194","2014-02-21 00:00:00","completed","","","","","21.98","Credit Card","Priority Mail","6.99","","Wayne","Worthington","wrap1@comcast.net"," 850-5752813","22716 Pinnacle Ct","","32310","Tallahassee","FL","United States","","Wayne","Worthington","22716 Pinnacle Ct","","32310","Tallahassee","FL","United States","","","RCHBULLY32ZS|1|14.99","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: Visa<br />Card No.:2723<br />Card Expiration: 08/2016|Tracking Numbers:9405903699300129931497<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:850-5752813<br />Evening Telephone:|Screen Branding Theme Code:MCP<br />Item IDs:RCHBULLY32ZS|Merchant Notes:4467 4400 0107 2723 08/16 534  shipping direct.. -janice 02/21|Comments:","2723","2014-02-21","Priority Mail","9405903699300129931497","USPS",""
-11006,"XDWEX-201402211219-288541","288541","2014-02-21 00:00:00","completed","","","","","22.96","Credit Card","Priority Mail","6.99","","Mary Jane","Montgomery","onporpoise62@yahoo.com"," 706-778-8875","117 STONEBROOK DR","","30535-5958","DEMOREST","GA","United States","","Mary Jane","Montgomery","117 STONEBROOK DR","","30535-5958","DEMOREST","GA","United States","","","RSTRZRS32Z|1|15.97","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: Discover<br />Card No.:1892<br />Card Expiration: 06/2016|Tracking Numbers:9261293150292870675231<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:706-778-8875<br />Evening Telephone:706-778-8875|Screen Branding Theme Code:MCP<br />Item IDs:RSTRZRS32Z|Merchant Notes:ship thru AMAZON.. -janice 02/24  Order ID: CONSUMER-20140224-101034 |Comments:","1892","2014-02-26","Priority Mail","9261293150292870675231","USPS",""
-11007,"XDWEX-201402211231-300018","300018","2014-02-21 00:00:00","completed","","","","","44.65","Credit Card","Priority Mail","0.00","","G W","Ostrander","gwopm@aol.com"," 8435404750","PO Box 6355","","05702","Rutland","VT","United States","","G W","Ostrander","230 LANDING LN","","29909-6091","BLUFFTON","SC","United States","","","RSTRZR1GZ|1|47.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: AMEX<br />Card No.:3000<br />Card Expiration: 11/2016|Tracking Numbers:041034265934784<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:8435404750<br />Evening Telephone:|Screen Branding Theme Code:MCP<br />Item IDs:RSTRZR1GZ|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","3000","2014-02-25","Priority Mail","041034265934784","USPS",""
-11008,"XDWEX-201402211242-377477","377477","2014-02-21 00:00:00","completed","","","","","33.99","Credit Card","Priority Mail","6.99","","Betty","Riley","bettyriley33@yahoo.com"," 8706622669","605 Roseland Dr","","72390","West Helena","AR","United States","","Betty","Riley","605 Roseland Dr","","72390","West Helena","AR","United States","","","BBBULLY32ZS|1|27.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: MasterCard<br />Card No.:2317<br />Card Expiration: 01/2017|Tracking Numbers:9405903699300131640202<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:8706622669<br />Evening Telephone:|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY32ZS|Merchant Notes:shipping direct - liza0224|Comments:","2317","2014-02-24","Priority Mail","9405903699300131640202","USPS",""
-11009,"XDWEX-201402211313-444984","444984","2014-02-21 00:00:00","completed","","","","","123.25","Credit Card","Priority Mail","0.00","","Charlie","Haynes","cchuck1939@aol.com"," 803-3816329","7427 pinedale dr","","29223","columbia","SC","United States","","Charlie","Haynes","7427 pinedale dr","","29223","columbia","SC","United States","","","BTLWSPRY32Z|1|2.95","BBBULLY1GS|2|67.00","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: Visa<br />Card No.:0928<br />Card Expiration: 11/2016|Tracking Numbers:1Z8951R80397810852<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:803-3816329<br />Evening Telephone:|Screen Branding Theme Code:BBB<br />Item IDs:BBBULLY1GS,BTLWSPRY32Z|Merchant Notes:4305 9824 8530 0928 11/16 674 shipping direct - liza0224|Comments:","0928","2014-02-24","Priority Mail","1Z8951R80397810852","USPS",""
+
+   SIDARTH DESAI                     ADVANCED SURGICAL PRODUCT              N/A
+   805-295-6604                N/A   24971 AVENUE STANFORD                  N/A
+   MFG SURGICAL MED INSTRS &         VALENCIA         CA 91355      N/A      11
+
+   ROBERT PRITZKER, CHB              N/A                                    N/A
+   203-772-2250                1985  285 NICOLL STREET               34,205,624
+   MFG INSULATED WIRE CABLE & ELC    NEW HAVEN        CT 06511      470     350
+
+   MICHAEL J CANTERINO               ROCKBESTOS                             N/A
+   203-653-7264                N/A   BRADLEY PARK ROAD                      N/A
+   MFG INSULATED WIRE CABLE          EAST GRANBY      CT 06026      N/A     122
+
+   ALEX DEAN                         N/A                                    N/A
+   214-484-1078                N/A   2995 LBJ FREEWAY                       N/A
+   WHL WIRE & CABLE                  DALLAS           TX 75234      N/A       2
+
+   RICHARD LICH, PRES                N/A                             26,000,000
+   706-884-6651                1987  1602 EXECUTIVE DRIVE            17,148,000
+   MFG RAILROAD EQP SPECIALIZING     LA GRANGE        GA 30240      110      85
+
+   LAWRENCE KING                     RAILSERVE                              N/A
+   404-994-3925                N/A   1610 PHOENIX BLVD                      N/A
+   LOCOMOTIVE PWR SWITCHING RR       ATLANTA          GA 30349      N/A       3
+
+   TROY OLIVER                       TRACKMOBILE SERVICES INC               N/A
+   313-753-9070                N/A   36800 SIBLEY                           N/A
+   MOVES RAIL CARS                   NEW BOSTON       MI 48164      N/A       7
+
+   ROBERT A PRITZKER, CHB            N/A                             15,000,000
+   708-639-2345                1987  225 N 1ST ST                     4,638,292
+   MFG PRINTED CIRCUIT BOARDS        CARY             IL 60013      175     175
+
+   UNKNOWN                           N/A                                    N/A
+   N/A                         N/A   PO BOX 96750                           N/A
+   POST OFFICE BOX                   CHICAGO          IL 60693      N/A     N/A
+
+   HENRY L. SCHWEICH, PRES           N/A                            300,000,000
+   618-337-6000                1976  MISSISSIPPI AVE                168,959,602
+   MFG COPPER TUBING COPPER REF      EAST SAINT LOUIS IL 62201      940     940
+
+   DICK BARRY                        N/A                                    N/A
+   404-987-8282                N/A   2523 LANTRACT COURT                    N/A
+   DISTRIBUTION CTR FOR COP WTR      DECATUR          GA 30035      N/A      10
+
+   RON LONG                          N/A                                    N/A
+   312-434-2444                N/A   5335 S WESTERN AVE                     N/A
+   MFG COPPER TUBING COPPER REF      CHICAGO          IL 60609      N/A       5
+
+   JOHN THOMSON, PRES                N/A                             20,000,000
+   317-763-6089                1987  500 NORTH RANGE LINE ROAD        8,507,000
+   MFG MEDIUM & HVY DUTY TRCK        MORRISTOWN       IN 46161      296     296
+
+   UNDETERMINED                      N/A                                    N/A
+   N/A                         N/A   NONE                                   N/A
+   LOCK BOX                          CHICAGO          IL 60693      N/A     N/A
+
+   WILLIAM E MEADOR, PRES            N/A                             62,808,000
+   304-469-3301                1960  227 WEST MAPLE AVE              18,304,000
+   MFG UNDERGROUND MIN MCHY EQP &    OAK HILL         WV 25901      500      85
+
+   WILLIAM E NOEL JR                 LONG-AIRDOX CO DIV                     N/A
+   618-438-3821                N/A   INDUSTRIAL PARK                        N/A
+   WAREHOUSE                         BENTON           IL 62812      N/A       8
+
+   BRIAN WATSON                      N/A                                    N/A
+   606-278-2597                N/A   2265 HARRODSBURG                       N/A
+   MFG MINING MACHINING              LEXINGTON        KY 40504      N/A       5
+
+   JOHN SKRINER, DIST MGR            N/A                                    N/A
+   801-687-9831                N/A   1 MILE N OF HUNTINGTON                 N/A
+   MFG MINING EQUIPMENT              HUNTINGTON       UT 84528      N/A       5
+
+   STEVE SU VADA                     N/A                                    N/A
+   703-980-4530                N/A   STATE ROUTE 611                        N/A
+   MFG MINING MACHINERY              PULASKI          VA 24301      N/A     120
+
+   LARRY STOWERS                     LONG AIRDOX DIVISION                   N/A
+   703-686-5128                N/A   INDUSTRIAL PARK                        N/A
+   MACHINE SHOP                      RURAL RETREAT    VA 24368      N/A      56
+
+   KELLY DIER, PRES                  N/A                            120,000,000
+   205-853-8837                1985  125 CLEAGE DRIVE                       N/A
+   HOLDING COMPANY                   BIRMINGHAM       AL 35217    1,200       2
+
+   DEAN TATE                         FONTAINE TRUCK EQUIP CO                N/A
+   305-764-7720                N/A   138 WEST STATE RD 84                   N/A
+   WHOLESALE RETAIL TRUCK EQP        FORT LAUDERDALE  FL 33315      N/A      10
+
+   JEFF SCHWERMER                    FONTAINE TRUCK EQUIPMENT               N/A
+   404-363-9990                N/A   5178 OLD DIXIE HWY                     N/A
+   WHOL TRUCK PARTS                  FOREST PARK      GA 30050      N/A      19
+
+   JOE A STOUTNER                    FONTAINE TRUCK EQUIPMENT               N/A
+   317-787-0718                N/A   2770 BLUFF ROAD                        N/A
+   WHOLESALES TRCK FIFTH WHEELS      INDIANAPOLIS     IN 46225      N/A      35
+
+   MIKE STANLEY, GEN MNGR            FONTAINE TRUCK EQUIPMENT               N/A
+   214-631-8810                N/A   3030 IRVING BLVD                       N/A
+   TRUCK EQUIPMENT                   DALLAS           TX 75247      N/A      20
+
+   JAMES WILFORE, PRES               N/A                             28,000,000
+   205-486-5251                1985  OLD DELMAR RD                          N/A
+   MFG FLAT BED LOW BED              HALEYVILLE       AL 35565      300     N/A
+
+   ROBERT GIMBEL, PRES               N/A                              7,200,000
+   502-491-0727                1991  2000 PLANTSIDE DRIVE               897,000
+   DISTRIBUTES TRCK ALL-WHEEL DRV    LOUISVILLE       KY 40299       22     N/A
+
+   JAMES VAN WINKLE, PRES            N/A                              9,000,000
+   601-765-8221                1985  707 NORTH FIR                    2,058,000
+   MFR DUMP TRCK BODIES; FERT        COLLINS          MS 39428      120     N/A
+
+   JOHN K PUCKETT JR, PRES           N/A                             36,000,000
+   205-849-0257                1985  2490 PINSON VALLEY PKWY          6,686,200
+   WHOL TRUCK MOUNTED EQUIPMENT      BIRMINGHAM       AL 35217      250      30
+
+   STAN BEARFIELD, MANAGER           DISTRIBUTION SERVICES COM              N/A
+   205-849-9858                N/A   2490 PINSON VALLEY PKWY                N/A
+   INSTALLS TRUCK MOUNTED EQP        BIRMINGHAM       AL 35217      N/A      25
+
+   TOM JACKSON                       N/A                                    N/A
+   N/A                         N/A   14962 VALLY BLVD                       N/A
+   WHOL INSTALLS TRCK MOUNTED        FONTANA          CA 92335      N/A      33
+
+   BILL MCEWAN                       FONTAINE TRUCK EQUIPMENT               N/A
+   310-946-6446                N/A   9051 SORENSEN AVE                      N/A
+   MFG TRUCK EQUIPMENT PARTS         SANTA FE SPRINGS CA 90670      N/A      25
+
+   TERRY M. JERNIGAN, GEN MGR        N/A                                    N/A
+   813-573-7763                N/A   5186 126TH AVE N                       N/A
+   TRUCK EQP SLS INSTALLATION        CLEARWATER       FL 34620      N/A       5
+
+   HUGH MOORE                        N/A                                    N/A
+   502-361-1151                N/A   2007 FERN VALLEY RD                    N/A
+   RET SERVICE TRUCK EQUIPMENT       LOUISVILLE       KY 40213      N/A      37
+
+   UNDETERMINED                      MARMON CORPORATION, THE                N/A
+   704-596-9674                N/A   4101 N I-85                            N/A
+   WHOLESALE TRUCK PARTS AND REPR    CHARLOTTE        NC 28269      N/A      19
+
+   TERRY FADDEN MATT STUMM           N/A                                    N/A
+   215-638-0190                N/A   750 STREET RD                          N/A
+   WHOL INSTALL TRCK MOUNTED         BENSALEM         PA 19020      N/A      15
+
+   DAMON MCDERMOTT                   N/A                                    N/A
+   615-244-9200                N/A   508 EXPRESSWAY PARK DR                 N/A
+   TRUCK EQUIPMENT                   NASHVILLE        TN 37210      N/A      15
+
+   ED WENTZ, PRES                    N/A                             28,542,703
+   502-245-7554                1985  13070 MDDLTOWN INDUS BLVD        5,540,350
+   MANUFACTURES TRCK BODIES &        LOUISVILLE       KY 40223      100       8
+
+   WADE ROSKAM, MANAGER              N/A                                    N/A
+   704-392-8502                N/A   4525 SOUTH I-85 SVC RD                 N/A
+   MANUFACTURE INSTALLS TRCK EQP     CHARLOTTE        NC 28214      N/A       4
+
+   RON DIXION                        FONTAINE TRUCK CENTER                  N/A
+   513-399-3319                N/A   5325 PROSPERITY DR                     N/A
+   MFG TRUCK BODIES                  SPRINGFIELD      OH 45502      N/A      35
+
+   RALPH D USRY, PRES                N/A                             25,000,000
+   205-856-1100                1985  125 CLEAGE DRIVE                       N/A
+   MFG TRUCK COMPONENTS              BIRMINGHAM       AL 35217      310     120
+
+   RON WILSON                        N/A                                    N/A
+   919-446-7124                N/A   3883 SOUTH CHURCH ST EXT               N/A
+   MFG MOTOR VEHICLE PARTS           ROCKY MOUNT      NC 27803      N/A     150
+
+   DAVID A. GARDINER, PRES           N/A                            200,000,000
+   814-355-6217                1987  ROUTE 144 SOUTH                        N/A
+   BRASS FOUNDRIES                   BELLEFONTE       PA 16823    1,195     825
+
+   UNKNOWN                           N/A                                    N/A
+   203-237-4552                N/A   54 LOWE AVE                            N/A
+   COPPER ROLLING AND DRAWING        MERIDEN          CT 06450      N/A       1
+
+   MICHAEL MULLETT                   N/A                                    N/A
+   313-642-8140                N/A   3320 PADDINGTON                        N/A
+   WHOL BRASS PRODUCTS               TROY             MI 48084      N/A       1
+
+   WILLIAM MARTIN                    N/A                                    N/A
+   703-234-9251                N/A   300 TRIANGLE DR                        N/A
+   MFG BRASS RODS AND FORGINGS       WEYERS CAVE      VA 24486      N/A     260
+
+   KENT TOOMEY, PRES                 DARLING STORE FIXTURES DI      130,000,000
+   501-239-9564                1962  1401 HIGHWAY 49 B NORTH         36,141,000
+   MFG WOODEN METAL & WIRE STR       PARAGOULD        AR 72451    2,000     900
+
+   RICHARD DISHONG                   DARLING STORE FIXTURES CO              N/A
+   501-857-3546                N/A   WOOTEN LANE                            N/A
+   MFG STEEL SHELVING                CORNING          AR 72422      N/A     525
+
+   GAYLON BURNS                      DARLING STORE FIXTURES DI              N/A
+   501-598-3842                N/A   HWY 49 S                               N/A
+   MFG WOODEN STORE FIXTURES         PIGGOTT          AR 72454      N/A     350
+
+   JACK ADAMS                        DARLING STORE FIXTURES CO              N/A
+   501-892-2509                N/A   HWY 67 S                               N/A
+   MFG STEEL SHELVING RACKS          POCAHONTAS       AR 72455      N/A      25
+
+   UNDETERMINED                      DARLING STORE FIXTURES                 N/A
+   901-794-0438                N/A   3807 LAMAR                             N/A
+   MANUFACTURING OF STORE FIXS       MEMPHIS          TN 38118      N/A     150
+
+   TRACY BARNETT                     DARLING STORE FIXTURES DI              N/A
+   214-964-0887                N/A   4975 PRESTON                           N/A
+   WHLS OF STORE FIXTURES            PLANO            TX 75093      N/A     N/A
+
+   ROBERT PRITZKER, CHB              N/A                              5,639,235
+   314-333-2070                1991  HARRY S TRUMAN BLVD              1,044,796
+   MFG TRUCKS TRCTRS TRLRS           CARUTHERSVILLE   MO 63830       75     N/A
+
+   KENT TOOMEY, CHB                  N/A                             25,000,000
+   417-682-3375                1990  1300 E 12TH ST                         N/A
+   MANUFACTURES WIRE METAL STORE     LAMAR            MO 64759      800     600
+
+   STEVEN ARNOLD                     THORCO                                 N/A
+   816-679-6531                N/A   ADDRESS UNKNOWN                        N/A
+   MFG WIRE PRODUCTS                 BUTLER           MO 64730      N/A     150
+
+   REGINALD BORGIA, PRES             N/A                              9,641,000
+   914-592-2595                1975  3 WESTCHESTER PLAZA              8,238,000
+   WHOLESALES MNS WNS CHLD           ELMSFORD         NY 10523       21      18
+
+   REGINALD BORGIA                   N/A                                    N/A
+   212-563-0950                N/A   366 5TH AVE                            N/A
+   WHOL HATS MEN LADIES              NEW YORK         NY 10001      N/A       3
+
+   JOHN F DEARDORFF, PRES            FLAGG STEEL PRODUCTS CO D       38,000,000
+   814-375-7211                1969  MALONEY RD                             N/A
+   MFG AUTO LEAF SPRNG THREADED      DU BOIS          PA 15801      275     200
+
+   JOHN F DEARDORFF, PRESIDENT       FLAGG SUSPENSION PARTS                 N/A
+   814-375-7200                N/A   MALONEY RD                             N/A
+   MANUFACTURE AUTO SPRINGS          DU BOIS          PA 15801      N/A      20
+
+   NORMAN E GOTTSCHALK JR, PRES      N/A                            235,000,000
+   412-283-3000                1970  225 E CUNNINGHAM ST             59,444,000
+   WHOL IRON STEEL PIPE TUBING       BUTLER           PA 16001      835      90
+
+   PRESTON KANE, BR MGR              N/A                                    N/A
+   205-956-4835                N/A   2505 1ST AVE S                         N/A
+   WHOLESALES STEEL TUBING           BIRMINGHAM       AL 35210      N/A     N/A
+
+   DAN DEVLIN                        N/A                                    N/A
+   209-441-1794                N/A   2671 S CHERRY AVE                      N/A
+   WHOL METAL TUBES PIPING           FRESNO           CA 93706      N/A      30
+
+   TERRY WILSON                      N/A                                    N/A
+   714-620-7500                N/A   1345 E LEXINGTON AVE                   N/A
+   PIPE TUBING DISTRUBTION           POMONA           CA 91766      N/A      44
+
+   PAUL OSCAR                        MARMON/KEYSTONE                        N/A
+   303-296-7473                N/A   6001 N BROADWAY                        N/A
+   METALS SERVICE CENTER             DENVER           CO 80216      N/A      27
+
+   ALAN WILKINSON                    N/A                                    N/A
+   404-476-4111                N/A   4250 BLUE RIDGE INDUS PK               N/A
+   WHOL STEEL TUBING                 NORCROSS         GA 30071      N/A      51
+
+   N/A                               N/A                                    N/A
+   N/A                         N/A   NO PHYSICAL ADDRESS                    N/A
+   LOCK BOX                          CHICAGO          IL 60693      N/A     N/A
+
+   KENNETH J SICHELSKI, DIST MGR     N/A                                    N/A
+   708-739-4525                N/A   10700 MARMON DR                        N/A
+   WAREHOUSE SALES OFFICE            LEMONT           IL 60439      N/A     150
+
+   JIM WESCOTT                       N/A                                    N/A
+   413-527-2000                N/A   1 CLARK ST                             N/A
+   WHOL STEEL PIPES                  SOUTHAMPTON      MA 01073      N/A      30
+
+   CHRISTOPHER E RAGAN               N/A                                    N/A
+   816-241-8222                N/A   4901 STILWELL ST                       N/A
+   WHOL METAL PRODUCTS               KANSAS CITY      MO 64120      N/A      26
+
+   N K KINNAIRD                      N/A                                    N/A
+   704-588-2192                N/A   11522 TEXLAND BLVD                     N/A
+   N/A                               CHARLOTTE        NC 28273      N/A      41
+
+   JOHN BUCHTER                      N/A                                    N/A
+   412-283-4500                N/A   1312 VALVOLINE ROAD                    N/A
+   WAREHOUSE FACILITY                EAST BUTLER      PA 16029      N/A     203
+
+   DON RICHARDSON                    N/A                                    N/A
+   215-521-0402                N/A   10 INDUSTRIAL HWY-BLDG 61              N/A
+   WHOL IRON STEEL PIPE TUBING       PHILADELPHIA     PA 19113      N/A     N/A
+
+   UNDETERMINED                      N/A                                    N/A
+   N/A                         N/A   NONE                                   N/A
+   POST OFFICE BOX                   PITTSBURGH       PA 15146      N/A     N/A
+
+   TOM CHELTON                       N/A                                    N/A
+   713-460-5400                N/A   6441 BINGLE                            N/A
+   N/A                               HOUSTON          TX 77092      N/A      22
+
+   DAVID A EHLERS                    N/A                                    N/A
+   801-973-2700                N/A   1230 SWANER RD                         N/A
+   WHOL STEEL TUBING PIPE            SALT LAKE CITY   UT 84104      N/A      29
+
+   GARY L BOPPE                      N/A                                    N/A
+   804-737-2851                N/A   CHARLES CITY RD                        N/A
+   WHOLESALES STEEL                  SANDSTON         VA 23150      N/A      11
+
+   EDWARD CORRIGAN                   N/A                                    N/A
+   206-941-1151                N/A   1001 "C" ST SW                         N/A
+   WHOL STEEL PIPE TUBING            AUBURN           WA 98001      N/A      22
+
+   JAMES SCHRADER                    N/A                                    N/A
+   414-725-3006                N/A   1920 AMERICAN CT                       N/A
+   WHOL STEEL TUBING                 NEENAH           WI 54956      N/A       5
+
+   NORMAN E GOTTSCHALK JR, PRES      N/A                              4,500,000
+   412-283-4500                1984  RAILROAD ST                            N/A
+   FREIGHT BROKER                    EAST BUTLER      PA 16029        9     N/A
+
+   JAMES PEACOCK, PRES               N/A                                    N/A
+   803-665-5543                1974  1943-C HOFFMEYER RD                    N/A
+   MFG REBUILDS AUTO PARTS           FLORENCE         SC 29501      400       3
+
+   JACK BICKART, PLANT MGR           PERFECTION HY-TEST                     N/A
+   813-665-5403                N/A   3146 WINTERLAKE RD                     N/A
+   MANUFACTURES MOTOR PARTS          LAKELAND         FL 33803      N/A      60
+
+   DAVE STEPHENS                     N/A                                    N/A
+   919-226-5501                N/A   426 MAPLE ST                           N/A
+   MFG AUTO PARTS                    GRAHAM           NC 27253      N/A      80
+
+   RAY LANDSKRONER                   PERFECTION AMERICAN DIV                N/A
+   405-527-5653                N/A   306 JUNEAU                             N/A
+   MFG REBUILDS AUTOMOTIVE PARTS     PURCELL          OK 73080      N/A     225
+
+   WAYNE MARSHALL                    N/A                                    N/A
+   803-326-5544                N/A   102 W RAILROAD AVE                     N/A
+   DISTRIBUTION CENTER               LAMAR            SC 29069      N/A      40
+
+   COLIN THORPE, MGR                 AUTOMOTIVE PARTS INTERNAT              N/A
+   803-326-1006                N/A   102 W RAILROAD ST                      N/A
+   WHOL AUTO PARTS                   LAMAR            SC 29069      N/A      22
+
+   JAY A PRITZKER, CHB               N/A                             20,000,000
+   814-838-2001                1979  4040 W 20TH ST                         N/A
+   MFG METAL DOORS FRAMES WD         ERIE             PA 16505      420     191
+
+   JERRY CANNON                      N/A                                    N/A
+   404-458-2790                N/A   2971 FLOWERS RD S STE 278              N/A
+   WHOL DOORS                        ATLANTA          GA 30341      N/A       3
+
+   R L GOODRICH                      HARRISBURG NC DIV                      N/A
+   704-455-5171                N/A   601 HWY 49 S                           N/A
+   MFG METAL FRAMES AND DOORS        HARRISBURG       NC 28075      N/A     140
+
+   BILL BUTLER, MGR                  MARMON GROUP INC, THE (MI              N/A
+   817-469-1262                N/A   2227C MICHIGAN AVE                     N/A
+   MANUFACTURERS REPRESENTATIVE      ARLINGTON        TX 76013      N/A       1
+
+   G F WILLIAMSON                    CORRIM DOOR SYSTEMS                    N/A
+   409-367-6384                N/A   113 RHODES STE C                       N/A
+   N/A                               CONROE           TX 77301      N/A      29
+
+   RICHARD HABERKORN                 OSHKOSH WOOD DOOR DIV                  N/A
+   414-233-6161                N/A   2501 UNIVERSAL ST                      N/A
+   MFG WOOD DOORS                    OSHKOSH          WI 54904      N/A     100
+
+   ROBERT A PRITZKER, PRES           N/A                            115,000,000
+   205-773-2522                1985  201 THOMPSON RD                        N/A
+   MFG WIRE & CABLE                  HARTSELLE        AL 35640      320     280
+
+   ANDREW PAINE                      N/A                                    N/A
+   801-782-4900                N/A   1160 W 2150 N                          N/A
+   MFG WHOL WIRE CABLE               OGDEN            UT 84404      N/A      50
+,"SC","United States","","Charlie","Haynes","7427 pinedale dr","","29223","columbia","SC","United States","","","BTLWSPRY32Z|1|2.95","BBBULLY1GS|2|67.00","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: Visa<br />Card No.:0928<br />Card Expiration: 11/2016|Tracking Numbers:1Z8951R80397810852<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:803-3816329<br />Evening Telephone:|Screen Branding Theme Code:BBB<br />Item IDs:BBBULLY1GS,BTLWSPRY32Z|Merchant Notes:4305 9824 8530 0928 11/16 674 shipping direct - liza0224|Comments:","0928","2014-02-24","Priority Mail","1Z8951R80397810852","USPS",""
 11010,"XDWEX-201402211404-200632","200632","2014-02-21 00:00:00","completed","","","","","33.99","Credit Card","Priority Mail","6.99","","bill","asplint","rje.enterprises@gmail.com"," 6153997948","3516 seasons dr","","37013","antioch","TN","United States","","bill","asplint","3516 SEASONS DR","","37013-4904","ANTIOCH","TN","United States","","","BBBULLY32Z|1|27.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: MasterCard<br />Card No.:4726<br />Card Expiration: 01/2017|Tracking Numbers:1ZW470Y1YW03409037<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:6153997948<br />Evening Telephone:|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY32Z|Merchant Notes:ship thru amazon.. -janice 02/24  Order ID: CONSUMER-20140224-095942 |Comments:","4726","2014-02-26","Priority Mail","1ZW470Y1YW03409037","USPS",""
 11011,"XDWEX-201402211416-344343","344343","2014-02-21 00:00:00","completed","","","","","33.99","Credit Card","Priority Mail","6.99","","gloria","benton","gleggettbenton@aol.com"," 2158433272","1140 E. Haines St","","19138","Philadelphia","PA","United States","","gloria","benton","1140 E HAINES ST","","19138-1512","PHILADELPHIA","PA","United States","","","BBBULLY32ZS|1|27.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: Visa<br />Card No.:0014<br />Card Expiration: 03/2015|Tracking Numbers:9261293150292870597670<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:2158433272<br />Evening Telephone:|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY32ZS|Merchant Notes:ship thru AMAZON.. -janice 02/24  Order ID: CONSUMER-20140224-100043 |Comments:","0014","2014-02-25","Priority Mail","9261293150292870597670","USPS",""
 11012,"XDWEX-201402211432-255030","255030","2014-02-21 00:00:00","completed","","","","","9.49","Credit Card","Priority Mail","0.00","","Maria","Cussen","mcu132@yahoo.com"," 702-578-7853","6130 W. Flamingo Rd. #738","","89103","Las Vegas","NV","United States","self","Maria","Cussen","7951 W CHARLESTON BLVD","APT 142","89117-1377","LAS VEGAS","NV","United States","Ameridream","","MLDRZR4Z|1|9.99","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Refunded<br />Payment Date:02/21/2014<br />Card Type: Visa<br />Card No.:3998<br />Card Expiration: 01/2016|Tracking Numbers:<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:702-578-7853<br />Evening Telephone:7025787853|Screen Branding Theme Code:MCP<br />Item IDs:MLDRZR4Z|Merchant Notes:customer overdrawn her card ms, we processed a new order using a different card and refunding the first order.. -janice 02/21|Comments:","3998","","Priority Mail","","USPS",""
@@ -39,20 +399,7 @@ You can click the Preview link to take a look at your changes.
 11028,"XDWEX-201402212246-133642","133642","2014-02-21 00:00:00","completed","","","","","33.99","Credit Card","Priority Mail","6.99","","patrick","leonard","leonardm96@yahoo.com"," (336) 470-5363","191 DER SAN DR","","27295-0531","LEXINGTON","NC","United States","","patrick","leonard","191 DER SAN DR","","27295-0531","LEXINGTON","NC","United States","","","BBBULLY32ZS|1|27.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: Visa<br />Card No.:3967<br />Card Expiration: 01/2015|Tracking Numbers:61293150344423914097<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:(336) 470-5363<br />Evening Telephone:(336) 470-5363|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY32ZS|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","3967","2014-02-24","Priority Mail","61293150344423914097","USPS",""
 11029,"XDWEX-201402212308-222239","222239","2014-02-21 00:00:00","completed","","","","","47.49","Credit Card","Priority Mail","0.00","","Donald","Quick","dsmdmq@aol.com"," 3528546270","10025 SW 153rd Lane","","34432","Dunnellon","FL","United States","","Donald","Quick","10025 SW 153RD LN","","34432-8523","DUNNELLON","FL","United States","","","RCHBULLY1GS|1|49.99","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/21/2014<br />Card Type: Visa<br />Card No.:0240<br />Card Expiration: 12/2017|Tracking Numbers:1Z8951R80398077886<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:352-854-6270<br />Evening Telephone:|Screen Branding Theme Code:MCP<br />Item IDs:RCHBULLY1GS|Merchant Notes:shipping direct - liza0224|Comments:","0240","2014-02-24","Priority Mail","1Z8951R80398077886","USPS",""
 11030,"XDWEX-201402220133-177374","177374","2014-02-22 00:00:00","completed","","","","","109.39","Credit Card","Priority Mail","19.08","","CARMEN","HOY","magicj63_@hotmail.com"," (740) 319-7555","1520 RUSTIC RIDGE RD","","43701-6938","ZANESVILLE","OH","United States","","CARMEN","HOY","1520 RUSTIC RIDGE RD","","43701-6938","ZANESVILLE","OH","United States","","If nobody is home, please leave on the back porch with the sliding glass door .","BBBULLY1G|1|67.00","BTLWSPRY32Z|2|2.95","BBBDTR1G|1|39.99","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: MasterCard<br />Card No.:6169<br />Card Expiration: 02/2015|Tracking Numbers:1Z8951R80397057293<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:(740) 319-7555<br />Evening Telephone:(740) 319-7555|Screen Branding Theme Code:MCP<br />Item IDs:BBBDTR1G,BBBULLY1G,BTLWSPRY32Z|Merchant Notes:shipping direct - liza0224|Comments:","6169","2014-02-24","Priority Mail","1Z8951R80397057293","USPS",""
-11031,"XDWEX-201402220221-599472","599472","2014-02-22 00:00:00","completed","","","","","59.98","Credit Card","Priority Mail","9.99","","Luisa","Venegas","412karo@gmail.com"," 626 919 3248","809 West Pine st","","91790","West Covina","CA","United States","","Luisa","Venegas","809 W PINE ST","","91790-4934","WEST COVINA","CA","United States","","","RCHBULLY1G|1|49.99","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Declined<br />Payment Date:<br />Card Type: Visa<br />Card No.:1968<br />Card Expiration: 06/2016|Tracking Numbers:<br />Item Distribution Center:SWIRE|Telephone Numbers<br />Day Telephone:<br />Evening Telephone:|Screen Branding Theme Code:MCP<br />Item IDs:RCHBULLY1G|Merchant Notes:This order failed during the auto closing of an upsell order.|Comments:","1968","","Priority Mail","","USPS",""
-11032,"XDWEX-201402220429-177716","177716","2014-02-22 00:00:00","completed","","","","","45.68","Credit Card","Priority Mail","9.99","","Amanda","Bond","inkslingerbond35@yahoo.com"," 606)686-3146","5694 LITTLE CAT FORK RD","","41230-7172","LOUISA","KY","United States","","Amanda","Bond","5694 LITTLE CAT FORK RD","","41230-7172","LOUISA","KY","United States","","","BBBULLY32ZS|1|27.00","BBBDTR32Z|1|14.99","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: Visa<br />Card No.:0738<br />Card Expiration: 08/2016|Tracking Numbers:61293150344423914158<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:606)686-3146<br />Evening Telephone:606)686-3146|Screen Branding Theme Code:MCP<br />Item IDs:BBBDTR32Z,BBBULLY32ZS|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","0738","2014-02-24","Priority Mail","61293150344423914158","USPS",""
-11033,"XDWEX-201402220642-311211","311211","2014-02-22 00:00:00","completed","","","","","21.98","Credit Card","Priority Mail","6.99","","Candice L","Hunter","lad1bugnanny@hotmail.com"," 804-241-3856","226 ENGLESIDE CIR","APT 2C","23222-1659","RICHMOND","VA","United States","1972","Candice L","Hunter","226 ENGLESIDE CIR","APT 2C","23222-1659","RICHMOND","VA","United States","1972","","RCHBULLY32ZS|1|14.99","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: MasterCard<br />Card No.:6660<br />Card Expiration: 01/2016|Tracking Numbers:9405903699300131640332<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:804-241-3856<br />Evening Telephone:804-241-3856|Screen Branding Theme Code:MCP<br />Item IDs:RCHBULLY32ZS|Merchant Notes:shipping direct - liza0224|Comments:","6660","2014-02-24","Priority Mail","9405903699300131640332","USPS",""
-11034,"XDWEX-201402220925-500058","500058","2014-02-22 00:00:00","completed","","","","","126.08","Credit Card","Priority Mail","9.09","","Evelyn","Jones","miluv_lee05@yahoo.com"," 815 573 6907","805 S OSBORN AVE","","60901-5643","KANKAKEE","IL","United States","","Evelyn","Jones","805 S OSBORN AVE","","60901-5643","KANKAKEE","IL","United States","","","BBBULLY1GS|1|67.00","BBBDTR1G|1|49.99","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: Visa<br />Card No.:9500<br />Card Expiration: 11/2017|Tracking Numbers:041034265924518<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:815 573 6907<br />Evening Telephone:815 573 6907|Screen Branding Theme Code:BBB<br />Item IDs:BBBDTR1G,BBBULLY1GS|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","9500","2014-02-24","Priority Mail","041034265924518","USPS",""
-11035,"XDWEX-201402220951-433241","433241","2014-02-22 00:00:00","completed","","","","","21.98","Credit Card","Priority Mail","6.99","","Rob","Ponce","pistolwhipped66@yahoo.com"," 718-755-9662","32-25 69TH ST","APT 2A","11377-2009","WOODSIDE","NY","United States","","Rob","Ponce","3225 69TH ST","APT 2A","11377-2009","WOODSIDE","NY","United States","","","RCHBULLY32ZS|1|14.99","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: MasterCard<br />Card No.:6285<br />Card Expiration: 05/2014|Tracking Numbers:9405903699300131640325<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:718-755-9662<br />Evening Telephone:718-755-9662|Screen Branding Theme Code:MCP<br />Item IDs:RCHBULLY32ZS|Merchant Notes:shipping direct - liza0224 usps sent letter saying product was found damage letter was sent to usps back giving more info about the product 6/23 Luz|Comments:","6285","2014-02-24","Priority Mail","9405903699300131640325","USPS",""
-11036,"XDWEX-201402221117-177052","177052","2014-02-22 00:00:00","completed","","","","","22.96","Credit Card","Priority Mail","6.99","","Ray","McManus","ray014@centurytel.net"," 256 276 6068","80 MARIE ST","","36278-4230","WEDOWEE","AL","United States","","Ray","McManus","80 MARIE ST","","36278-4230","WEDOWEE","AL","United States","","","RSTRZRS32Z|1|15.97","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: AMEX<br />Card No.:1004<br />Card Expiration: 10/2014|Tracking Numbers:9261293150292870648341<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:256 276 6068<br />Evening Telephone:256 276 6068|Screen Branding Theme Code:MCP<br />Item IDs:RSTRZRS32Z|Merchant Notes:ship thru AMAZON.. -janice 02/24  Order ID: CONSUMER-20140224-100815 |Comments:","1004","2014-02-26","Priority Mail","9261293150292870648341","USPS",""
-11037,"XDWEX-201402221220-199465","199465","2014-02-22 00:00:00","completed","","","","","21.98","Credit Card","Priority Mail","6.99","","margaret","gibson","margaret.sunnymar@gmail.com"," 7188989626","p.o. box 690315","","11369","east elmhurst","NY","United States","","margaret","gibson","9506 ASTORIA BLVD","","11369-1690","EAST ELMHURST","NY","United States","queens library","","RCHBULLY32ZS|1|14.99","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: MasterCard<br />Card No.:0698<br />Card Expiration: 06/2015|Tracking Numbers:9405903699300131640295<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:7188989626<br />Evening Telephone:7188989626|Screen Branding Theme Code:MCP<br />Item IDs:RCHBULLY32ZS|Merchant Notes:shipping direct - liza0224|Comments:","0698","2014-02-24","Priority Mail","9405903699300131640295","USPS",""
-11038,"XDWEX-201402221243-099206","099206","2014-02-22 00:00:00","completed","","","","","121.54","Credit Card","Priority Mail","9.09","","Priscilla","Frassetto","frasspr@yahoo.com"," 904-810-6865","820 N END ST","","32095-6898","ST AUGUSTINE","FL","United States","","Priscilla","Frassetto","820 N END ST","","32095-6898","ST AUGUSTINE","FL","United States","","","RSTRZR1G|3|44.10","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: Visa<br />Card No.:0716<br />Card Expiration: 11/2017|Tracking Numbers:1Z8951R80395621908<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:904-810-6865<br />Evening Telephone:904-810-6865|Screen Branding Theme Code:MCP<br />Item IDs:RSTRZR1G|Merchant Notes:shipping direct - liza0224|Comments:","0716","2014-02-24","Priority Mail","1Z8951R80395621908","USPS",""
-11039,"XDWEX-201402221244-211205","211205","2014-02-22 00:00:00","completed","","","","","14.24","Credit Card","Priority Mail","0.00","","gary","Dent","dentgary@gmail.com"," 7168921018","379 BOX AVE","","14211-1401","BUFFALO","NY","United States","","gary","Dent","379 BOX AVE","","14211-1401","BUFFALO","NY","United States","","","RCHBULLY32ZS|1|14.99","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: Visa<br />Card No.:8334<br />Card Expiration: 12/2015|Tracking Numbers:9405903699300131640233<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:7168921018<br />Evening Telephone:7168921018|Screen Branding Theme Code:MCP<br />Item IDs:RCHBULLY32ZS|Merchant Notes:shipping direct - liza0224|Comments:","8334","2014-02-24","Priority Mail","9405903699300131640233","USPS",""
-11040,"XDWEX-201402221310-233773","233773","2014-02-22 00:00:00","completed","","","","","28.59","Credit Card","Priority Mail","6.99","","Douglas","Meier","dougm@sbcglobal.net"," 913.526.0115","2125 E. Hwy 190 #124","","76522","Copperas Cove","TX","United States","","Douglas","Meier","2125 E. Hwy 190 #124","","76522","Copperas Cove","TX","United States","","","BBBULLY32Z|1|27.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Refunded<br />Payment Date:02/22/2014<br />Card Type: Visa<br />Card No.:8403<br />Card Expiration: 04/2017|Tracking Numbers:CANCELED<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:913.526.0115<br />Evening Telephone:913.526.0115|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY32Z|Merchant Notes:** ship thru AMAZON.. -janice 02/24    customer requested to cancel this order, processing the 1G order.. -janice 02/24|Comments:","8403","2014-02-24","Priority Mail","CANCELED","USPS",""
-11041,"XDWEX-201402221319-088171","088171","2014-02-22 00:00:00","completed","","","","","52.28","Credit Card","Priority Mail","9.99","","Kimberly","Perry","tjp1995@aoll.com"," 978-273-7130","38 HIGHLAND AVE","","01863-2016","N CHELMSFORD","MA","United States","","Kimberly","Perry","38 HIGHLAND AVE","","01863-2016","N CHELMSFORD","MA","United States","","","BBBULLY32Z|1|27.00","BBBDTR32Z|1|19.99","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: MasterCard<br />Card No.:0551<br />Card Expiration: 10/2016|Tracking Numbers:61293150344423911270<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:978-273-7130<br />Evening Telephone:978-273-7130|Screen Branding Theme Code:MCP<br />Item IDs:BBBDTR32Z,BBBULLY32Z|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","0551","2014-02-24","Priority Mail","61293150344423911270","USPS",""
-11042,"XDWEX-201402221340-488401","488401","2014-02-22 00:00:00","completed","","","","","22.96","Credit Card","Priority Mail","6.99","","Karla","Unrast","k_unrast@hotmail.com"," 4199255180","2559 Clune Stucke Rd","","45860","Maria Stein","OH","United States","","Karla","Unrast","2559 CLUNE STUCKE RD","","45860-9795","MARIA STEIN","OH","United States","","","RSTRZRS32Z|1|15.97","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: Visa<br />Card No.:2584<br />Card Expiration: 05/2014|Tracking Numbers:1Z868YE4YW02359908<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:4199255180<br />Evening Telephone:4199255180|Screen Branding Theme Code:MCP<br />Item IDs:RSTRZRS32Z|Merchant Notes:ship thru AMAZON.. -janice 02/24  Order ID: CONSUMER-20140224-102354 |Comments:","2584","2014-02-26","Priority Mail","1Z868YE4YW02359908","USPS",""
-11043,"XDWEX-201402221406-588763","588763","2014-02-22 00:00:00","completed","","","","","33.99","Credit Card","Priority Mail","6.99","","Tom","Lenz","tlvl2008@hotmail.com"," 361-522-9905","2103 COLORADO ST","","78363-6013","KINGSVILLE","TX","United States","","Tom","Lenz","2103 COLORADO ST","","78363-6013","KINGSVILLE","TX","United States","","","BBBULLY32ZS|1|27.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: Visa<br />Card No.:9000<br />Card Expiration: 05/2016|Tracking Numbers:61293150344423914059<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:361-522-9905<br />Evening Telephone:361-522-9905|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY32ZS|Merchant Notes:ship thru EFUL . -janice 02/24|Comments:","9000","2014-02-24","Priority Mail","61293150344423914059","USPS",""
-11044,"XDWEX-201402221505-066596","066596","2014-02-22 00:00:00","completed","","","","","37.00","Credit Card","Priority Mail","0.00","","GARY","DIGMAN","gwdigman@aol.com"," 440-622-1235","38870 BELL RD","","44094-7526","WILLOUGHBY","OH","United States","","GARY","DIGMAN","38870 BELL RD","","44094-7526","WILLOUGHBY","OH","United States","","","MLDKT32Z|1|37.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: MasterCard<br />Card No.:5022<br />Card Expiration: 06/2014|Tracking Numbers:61293150344423910310<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:440-622-1235<br />Evening Telephone:440-622-1235|Screen Branding Theme Code:MCP<br />Item IDs:MLDKT32Z|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","5022","2014-02-24","Priority Mail","61293150344423910310","USPS",""
+"","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: MasterCard<br />Card No.:5022<br />Card Expiration: 06/2014|Tracking Numbers:61293150344423910310<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:440-622-1235<br />Evening Telephone:440-622-1235|Screen Branding Theme Code:MCP<br />Item IDs:MLDKT32Z|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","5022","2014-02-24","Priority Mail","61293150344423910310","USPS",""
 11045,"XDWEX-201402221539-599645","599645","2014-02-22 00:00:00","completed","","","","","76.99","Credit Card","Priority Mail","9.99","","rock","laraway","rockin2@frontier.com"," 812-523-6738","950e. oak st.","","47274","seymour","IN","United States","","rock","laraway","950e. oak st.","","47274","seymour","IN","United States","","","BBBULLY1GS|1|67.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: Visa<br />Card No.:1542<br />Card Expiration: 01/2015|Tracking Numbers:041034265927113<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:812-523-6738<br />Evening Telephone:812-523-6738|Screen Branding Theme Code:BBB<br />Item IDs:BBBULLY1GS|Merchant Notes:ship thru EFUL.. -janice 02/24|Comments:","1542","2014-02-24","Priority Mail","041034265927113","USPS",""
 11046,"XDWEX-201402221556-044311","044311","2014-02-22 00:00:00","completed","","","","","84.93","Credit Card","Priority Mail","14.98","","leila","hill","hill717@comcast.net"," 773-651-2003312-402-2992","717 E 83RD ST","APT 2W","60619-5362","CHICAGO","IL","United States","1947","leila","hill","717 E 83RD ST","APT 2W","60619-5362","CHICAGO","IL","United States","1947","","BBBULLY1GS|1|67.00","BTLWSPRY32Z|1|2.95","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Processed<br />Payment Date:02/22/2014<br />Card Type: MasterCard<br />Card No.:6749<br />Card Expiration: 04/2016|Tracking Numbers:1Z8951R80395315712<br />Item Distribution Center:DFLT|Telephone Numbers<br />Day Telephone:773-651-2003312-402-2992<br />Evening Telephone:773-651-2003312-402-2992|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY1GS,BTLWSPRY32Z|Merchant Notes:shipping direct - liza0224|Comments:","6749","2014-02-24","Priority Mail","1Z8951R80395315712","USPS",""
 11047,"XDWEX-201402221624-599433","599433","2014-02-22 00:00:00","completed","","","","","33.99","Credit Card","Priority Mail","6.99","","Jasmine","Portlock","xjazzy7x@yahoo.com"," 2162786755","2534 NOBLE RD","APT 3","44121-2157","CLEVELAND HTS","OH","United States","","Jasmine","Portlock","2534 NOBLE RD","APT 3","44121-2157","CLEVELAND HTS","OH","United States","","","BBBULLY32Z|1|27.00","","","","","","","","","","","","","","Payment Method:Credit Card<br />Payment Status:Declined<br />Payment Date:<br />Card Type: Visa<br />Card No.:5156<br />Card Expiration: 11/2015|Tracking Numbers:<br />Item Distribution Center:EFUL|Telephone Numbers<br />Day Telephone:2162786755<br />Evening Telephone:2162786755|Screen Branding Theme Code:MCP<br />Item IDs:BBBULLY32Z|Merchant Notes:This order failed during the auto closing of an upsell order.|Comments:","5156","","Priority Mail","","USPS",""
