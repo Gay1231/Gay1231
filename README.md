@@ -4,7 +4,46 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+<!--/usr/sbin/ufsdump 0cf - /etc
+exit
+/usr/sfw/bin/smbtar -u Guest -s grantpc -x backup -t /tmp/grantpc.tar
+/usr/sfw/bin/smbtar -u Guest -s dcpc -x backup -t /tmp/grantpc.tar
+cd /data03/pc_backups
+ll
+ll
+ll
+ll
+\rm tmp.txt
+ll
+cd /opt/sfw/sbin
+visudo
+visudo
+cd /opt/sfw/bin
+ll sudo
+chmod 4111 sudo
+ll sudo
+exit
+cd /opt/sfw/sbin
+visudo
+exit
+lprstat -p
+ls
+cd ..
+exit
+cd /opt/sfw/sbin
+visudo
+cd /etc
+cp hosts hosts.6.15.04
+vi hosts
+vi hosts
+cd /var/yp
+make
+exit
+cd /etc
+vi hosts
+cd /var/yp
+make
+exit
 
    SIDARTH DESAI                     ADVANCED SURGICAL PRODUCT        o      N/A
    805-295-6604                N/A   24971 AVENUE STANFORD                  N/A
